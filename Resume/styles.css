@@ -2,12 +2,12 @@ body{
 	background-image: url("bgimage/bg.jpg") ;
 }
 h3{
-	color: green;
+	color: #6fedd4;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 25px;
 }
 h2{
-	color: green;
+	color: #6fedd4;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 30px;
 }
@@ -21,12 +21,11 @@ ul{
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #333;
 }
 li{
 	font-family: "Times New Roman", Times, serif;
 	font-size: 20px;
-	float:left;
+	float:right;
 }
 li a{
 	display:block;
